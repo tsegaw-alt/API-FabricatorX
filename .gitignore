@@ -1,0 +1,26 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+*.cache
+
+# Environment files
+.env
+.env.development
+.env.test
+.env.production
+
+# Ignore npm's cache directory
+.npm/
+
+# Ignore production build directory
+build/
+dist/
+
+# IDE and editor files
+.vscode
+.idea
+*.swp
+*.swo
+*.swn
